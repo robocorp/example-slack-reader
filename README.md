@@ -18,7 +18,7 @@ Install the app that you created to your Slack workspace
 
 ### Step 3
 
-Copy OAuth token from slack app configuration page to Robocorp Vault
+Copy "Bot User OAuth Token" from "OAuth & Permissions" -page to Robocorp Vault. This example uses secret name "slack" and key "token".
 
 ### Step 4
 
